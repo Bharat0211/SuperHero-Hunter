@@ -30,7 +30,7 @@ Live Link: https://bharat0211.github.io/SuperHero-Hunter/
 1. Clone the repository:
 
 ```bash
-(https://github.com/Bharat0211/SuperHero-Hunter.git)
+git clone https://github.com/Bharat0211/SuperHero-Hunter.git
 ```
 ```bash
 cd SuperHero-Hunter
