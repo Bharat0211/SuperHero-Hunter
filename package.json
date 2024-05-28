@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Bharat0211.github.io/SuperHero-Hunter",
+  "homepage" : "https://Bharat0211.github.io/SuperHero-Hunter",
   "name": "superhero-hunter",
   "version": "1.0.0",
   "description": "A superhero hunter app using Marvel API",
@@ -14,8 +14,8 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "parcel build index.html"
   },
   "author": "",
