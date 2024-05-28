@@ -29,11 +29,15 @@ SuperHero Hunter is a web application that allows users to search for Marvel sup
 
 ```bash
 (https://github.com/Bharat0211/SuperHero-Hunter.git)
+```
+```bash
 cd SuperHero-Hunter
-
+```
 2. Install Dependencies
+```bash
 npm install
-
-3. To run the application locally, use:
+```
+4. To run the application locally, use:
+```bash
 npm start
-
+```
