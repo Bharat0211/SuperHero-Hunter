@@ -2,6 +2,8 @@
 
 SuperHero Hunter is a web application that allows users to search for Marvel superheroes using the Marvel API. Users can add their favorite superheroes to a favorites list, which is stored in the browser's local storage.
 
+Live Link: https://bharat0211.github.io/SuperHero-Hunter/
+
 ## Features
 
 - Search for Marvel superheroes by name
